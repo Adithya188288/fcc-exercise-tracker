@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "mongoose": "^5.7.11",
-    "mongodb": "^2.2.14",
+    "mongodb": "^3.6.1",
     "cors": "^2.8.5",
     "shortid": "^2.2.6",
     "@hapi/joi": "^16.1.7",
